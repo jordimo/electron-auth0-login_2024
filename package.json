@@ -14,13 +14,13 @@
   ],
   "author": "Jimmy Breck-McKye",
   "license": "MIT",
-  "homepage": "https://github.com/jbreckmckye/electron-auth0-login#readme",
+  "homepage": "https://github.com/jordimo/electron-auth0-login_2024.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jbreckmckye/electron-auth0-login.git"
+    "url": "https://github.com/jordimo/electron-auth0-login_2024.git"
   },
   "bugs": {
-    "url": "https://github.com/jbreckmckye/electron-auth0-login/issues"
+    "url": "https://github.com/jordimo/electron-auth0-login_2024.git/issues"
   },
   "dependencies": {
     "cacheable-request": "^12.0.1",
