@@ -2,30 +2,33 @@
     "compilerOptions": {
 
       
-      // Compiled module type. Node uses CommonJS.
-      "module": "NodeNext",
+     
   
-      // Target language level
-      "target": "es2016",
+      // "allowJs": true,
+      // "checkJs": true,
+      // // Explodes if type cannot be inferred
+      // "noImplicitAny": true,
   
-      "allowJs": true,
-      "checkJs": true,
-      // Explodes if type cannot be inferred
-      "noImplicitAny": true,
+      // // Don't assume any type may also be a null
+      // "strictNullChecks": true,
   
-      // Don't assume any type may also be a null
-      "strictNullChecks": true,
+       // Compiled module type. Node uses CommonJS.
+       "module": "NodeNext",
   
+       // Target language level
+       "target": "ESNext",
       // Follow module paths like a Node app
       "moduleResolution": "NodeNext",
-  
-      // Where to output compiled code
-      "outDir": "dist",
   
       // Allow ES2015-style default imports from files with no explicit export-default
       "allowSyntheticDefaultImports": true,
       "esModuleInterop": true,
 
+
+      // Where to output compiled code
+      "outDir": "dist",
+  
+      
       // Output types
       "declaration": true
     },
